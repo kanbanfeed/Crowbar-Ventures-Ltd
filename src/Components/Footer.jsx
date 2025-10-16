@@ -10,7 +10,7 @@ import whatsappLogo from "../assets/whatsapplogo.png";
 const socialIcons = {
   linkedin: {
     src: linkedinLogo,
-    href: "https://www.linkedin.com/",
+    href: "https://www.linkedin.com/company/crowbar-limited/",
     alt: "LinkedIn"
   },
   x: { src: xLogo, href: "#", alt: "X" },
