@@ -43,9 +43,8 @@ const ContactForm = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.6, duration: 1 }}
           className="bg-indigo-400 p-8 rounded-2xl shadow-lg max-w-lg w-full space-y-6"
-          action="https://formspree.io/f/mgvlryvy"
-          method='POST'
-          
+          action="https://formspree.io/f/myznojnq"
+          method='POST' 
         >
           <FloatingInput label="Name" name="name" type="text" formData={formData} setFormData={setFormData} />
           <FloatingInput label="Email" name="email" type="email" formData={formData} setFormData={setFormData} />
